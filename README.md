@@ -9,7 +9,7 @@ Name of Quantlet: Outcome-adaptive-Random-Forest
 
 Published in: Variable Selection for Causal Inference via Outcome-adaptive Random Forest (IRTG Discussion Paper)
 
-Description: Replication code for estimating the ATE via inverse probability weighting.
+Description: Replication code for estimating the ATE via inverse probability weighting. The propensity score is estimated via a Random Forest and additional variable selection is based on confounding and outcome dependent variables.
 
 Keywords: IPTW, ATE, variable-selection, Random-Forest
 
